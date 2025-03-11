@@ -1,0 +1,3217 @@
+{
+  "ops": [
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor:"
+    },
+    {
+      "insert": " I will break my back for you\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج: "
+    },
+    {
+      "insert": " قال خدام المصنع لبنتو "
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor:"
+    },
+    {
+      "insert": " said the factory worker to his daughters\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج:"
+    },
+    {
+      "insert": "  بش نكسر ضهري على خاطرك"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor:"
+    },
+    {
+      "insert": " and the daughters replied\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج:"
+    },
+    {
+      "insert": " و بنتو جاوبتو"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor:"
+    },
+    {
+      "insert": " we will break the rules for you\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج:"
+    },
+    {
+      "insert": " بش نكسر القواعد على خاطرك"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "يتنفس المتفرجون بعمق"
+    },
+    {
+      "attributes": {
+        "align": "center"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "وفي كل زفير تأتي نغمة"
+    },
+    {
+      "attributes": {
+        "align": "center"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "يدندن الجمهور"
+    },
+    {
+      "attributes": {
+        "align": "center"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "عالية أو منخفضة كما يريدون"
+    },
+    {
+      "attributes": {
+        "align": "center"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "للمدة التي يريدونها"
+    },
+    {
+      "attributes": {
+        "align": "center"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "دقات الموجة الصاخبة التي تهدأ ببطء"
+    },
+    {
+      "attributes": {
+        "align": "center"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "til-skuespillerne trækker vejret dybt"
+    },
+    {
+      "attributes": {
+        "align": "center"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "på hver udånding kommer en tone"
+    },
+    {
+      "attributes": {
+        "align": "center"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "til-skuespillerne nynner"
+    },
+    {
+      "attributes": {
+        "align": "center"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "så højt eller lavt de vil"
+    },
+    {
+      "attributes": {
+        "align": "center"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "så længe de vil"
+    },
+    {
+      "attributes": {
+        "align": "center"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "høje bølgeslag der langsomt stilner af"
+    },
+    {
+      "attributes": {
+        "align": "center"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " en halv\n\nالممثل-المتفرج: نصف "
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " sætning\n\nالممثل-المتفرج: الجملة "
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " en verden \n\nالممثل-المتفرج:العالم مقطع أجزاء"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " skåret i stykker\n\nالممثل- المتفرج: بالحدود"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller: "
+    },
+    {
+      "insert": "færdiggør denne sætning\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor: "
+    },
+    {
+      "insert": "finish this sentence\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج: "
+    },
+    {
+      "insert": "كمِّل الجملة "
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " jeg krydser en grænse og\n"
+    },
+    {
+      "attributes": {
+        "align": "center"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "يتنفس المتفرجون بعمق"
+    },
+    {
+      "attributes": {
+        "align": "center"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "وفي كل زفير تأتي نغمة"
+    },
+    {
+      "attributes": {
+        "align": "center"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "يدندن الجمهور"
+    },
+    {
+      "attributes": {
+        "align": "center"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "عالية أو منخفضة كما يريدون"
+    },
+    {
+      "attributes": {
+        "align": "center"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "للمدة التي يريدونها"
+    },
+    {
+      "attributes": {
+        "align": "center"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "دقات الموجة الصاخبة التي تهدأ ببطء"
+    },
+    {
+      "attributes": {
+        "align": "center"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "til-skuespillerne trækker vejret dybt"
+    },
+    {
+      "attributes": {
+        "align": "center"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "på hver udånding kommer en tone"
+    },
+    {
+      "attributes": {
+        "align": "center"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "til-skuespillerne nynner"
+    },
+    {
+      "attributes": {
+        "align": "center"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "så højt eller lavt de vil"
+    },
+    {
+      "attributes": {
+        "align": "center"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "så længe de vil"
+    },
+    {
+      "attributes": {
+        "align": "center"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "høje bølgeslag der langsomt stilner af"
+    },
+    {
+      "attributes": {
+        "align": "center"
+      },
+      "insert": "\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج: "
+    },
+    {
+      "insert": "كمل كلامك "
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller: "
+    },
+    {
+      "insert": "du krydser en grænse\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor:"
+    },
+    {
+      "insert": " you cross a border\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج:"
+    },
+    {
+      "insert": " قطعت الحد "
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " og finder arbejde\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor: "
+    },
+    {
+      "insert": "and find work\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج:"
+    },
+    {
+      "insert": " بش تخدم في مصانع أوروبا "
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller: "
+    },
+    {
+      "insert": "på Europas fabrikker\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor:"
+    },
+    {
+      "insert": " in Europe’s factories\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج:"
+    },
+    {
+      "insert": " في مصانع أوروبا "
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " du forlader dine forældre\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor: "
+    },
+    {
+      "insert": "you leave your parents\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج:"
+    },
+    {
+      "insert": " خليت بوك و امك "
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " du forlader dine søskende\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor: "
+    },
+    {
+      "insert": "you leave your siblings\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج:"
+    },
+    {
+      "insert": " خليت خواتك "
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " du forlader dine onkler \n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor:"
+    },
+    {
+      "insert": " you leave your uncles\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج:"
+    },
+    {
+      "insert": " خليت اعمامك و اخوالك "
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller: "
+    },
+    {
+      "insert": "du forlader dine tanter\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor: "
+    },
+    {
+      "insert": "you leave your aunts\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج"
+    },
+    {
+      "insert": ": خليتك عماتك وخالاتك "
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " du forlader din elskede\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor: "
+    },
+    {
+      "insert": "you leave your love interest\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج:"
+    },
+    {
+      "insert": " خليت الحب "
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " du forlader dine børn\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor: "
+    },
+    {
+      "insert": "you leave your children\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج:"
+    },
+    {
+      "insert": " خليت صغارك "
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " du forlader dine venner\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor: "
+    },
+    {
+      "insert": "you leave your friends\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج:"
+    },
+    {
+      "insert": " خليت اصحابك "
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " du forlader træerne\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor:"
+    },
+    {
+      "insert": " you leave the trees\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج: "
+    },
+    {
+      "insert": "خليت الشجر "
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " du forlader dyrene\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor: "
+    },
+    {
+      "insert": "you leave the animals\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج:"
+    },
+    {
+      "insert": " خليت الحيوانات "
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " du forlader jorden\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor: "
+    },
+    {
+      "insert": "you leave the land\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج:"
+    },
+    {
+      "insert": " خليت الأرض "
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " du forlader mig\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor: "
+    },
+    {
+      "insert": "you leave me\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج: "
+    },
+    {
+      "insert": "خليتني "
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " aldrig\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor: "
+    },
+    {
+      "insert": "never\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج:"
+    },
+    {
+      "insert": " أبدا "
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " jeg forlod\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor: "
+    },
+    {
+      "insert": "I left\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج:"
+    },
+    {
+      "insert": " خليت"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " dig\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor: "
+    },
+    {
+      "insert": "you\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج:"
+    },
+    {
+      "insert": " تك "
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " for at studere på Europas universiteter\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor:"
+    },
+    {
+      "insert": " to study at European universities\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج: "
+    },
+    {
+      "insert": "بش نقرا في الجامعات الأوروبية "
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " hver dag den samme film\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor: "
+    },
+    {
+      "insert": "every day the same movie\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج:"
+    },
+    {
+      "insert": " كل يوم نفس الفيلم "
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " som at sidde fast i en drøm\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor:"
+    },
+    {
+      "insert": " like being stuck in a dream\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج:"
+    },
+    {
+      "insert": " كايني محصور في حلمة "
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " du krydser en grænse og\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor: "
+    },
+    {
+      "insert": "you cross a border and\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج:"
+    },
+    {
+      "insert": " تقطع الحد و "
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " ankommer\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor: "
+    },
+    {
+      "insert": "arrive\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج:"
+    },
+    {
+      "insert": " تخلط "
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " til et nyt land\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor: "
+    },
+    {
+      "insert": "at new land\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج: "
+    },
+    {
+      "insert": "لأرض جديدة "
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " omskriv manuskriptet\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor: "
+    },
+    {
+      "insert": "rewrite the script\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج:"
+    },
+    {
+      "insert": " تعاود تكتب السكريبت "
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " du krydser en grænse og\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor: "
+    },
+    {
+      "insert": "you cross a border and\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج:"
+    },
+    {
+      "insert": " تقطع الحد و "
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " forsvinder\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor: "
+    },
+    {
+      "insert": "disappear\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج:"
+    },
+    {
+      "insert": " تختفي "
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "align": "center"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "يتنفس المتفرجون بعمق"
+    },
+    {
+      "attributes": {
+        "align": "center"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "وفي كل زفير تأتي نغمة"
+    },
+    {
+      "attributes": {
+        "align": "center"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "يدندن الجمهور"
+    },
+    {
+      "attributes": {
+        "align": "center"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "عالية أو منخفضة كما يريدون"
+    },
+    {
+      "attributes": {
+        "align": "center"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "للمدة التي يريدونها"
+    },
+    {
+      "attributes": {
+        "align": "center"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "دقات الموجة الصاخبة التي تهدأ ببطء"
+    },
+    {
+      "attributes": {
+        "align": "center"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "til-skuespillerne trækker vejret dybt"
+    },
+    {
+      "attributes": {
+        "align": "center"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "på hver udånding kommer en tone"
+    },
+    {
+      "attributes": {
+        "align": "center"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "til-skuespillerne nynner"
+    },
+    {
+      "attributes": {
+        "align": "center"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "så højt eller lavt de vil"
+    },
+    {
+      "attributes": {
+        "align": "center"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "så længe de vil"
+    },
+    {
+      "attributes": {
+        "align": "center"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "høje bølgeslag der langsomt stilner af"
+    },
+    {
+      "attributes": {
+        "align": "center"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " hvad er mit land?\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor: "
+    },
+    {
+      "insert": "what is my land?\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج:"
+    },
+    {
+      "insert": " أناهي أرضي؟ "
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " hvad er dit land?\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor:"
+    },
+    {
+      "insert": " what is your land?\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج:"
+    },
+    {
+      "insert": " أناهي أرضك ؟ "
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor:"
+    },
+    {
+      "insert": " I\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller: "
+    },
+    {
+      "insert": "jeg\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor:"
+    },
+    {
+      "insert": " am a fragment\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج: "
+    },
+    {
+      "insert": "أنا لقشة "
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller: "
+    },
+    {
+      "insert": "er en del\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor:"
+    },
+    {
+      "insert": " of a us \n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج:"
+    },
+    {
+      "insert": " مننا نحنا "
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " af et vi\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " jorden\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor: "
+    },
+    {
+      "insert": "the soil\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج:"
+    },
+    {
+      "insert": " من تراب "
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " forlader dig\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor: "
+    },
+    {
+      "insert": "never \n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج:"
+    },
+    {
+      "insert": " عمره \n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " aldrig\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor: "
+    },
+    {
+      "insert": "leaves you\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج:"
+    },
+    {
+      "insert": " ما يخليك \n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " jorden\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor:"
+    },
+    {
+      "insert": " the soil \n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج:"
+    },
+    {
+      "insert": " التراب \n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " dit ophav\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor: "
+    },
+    {
+      "insert": "that you came from\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج:"
+    },
+    {
+      "insert": " الي جيت منه \n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " jorden\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor:"
+    },
+    {
+      "insert": " the soil\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج:"
+    },
+    {
+      "insert": " التراب \n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " dit gravsted\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor: "
+    },
+    {
+      "insert": "your grave\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج:"
+    },
+    {
+      "insert": " قبرك \n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " jorden\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor: "
+    },
+    {
+      "insert": "the soil\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج"
+    },
+    {
+      "insert": ": التراب "
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " et sted hvor livet kan vokse\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor:"
+    },
+    {
+      "insert": " a place where life can grow\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج: "
+    },
+    {
+      "insert": "وين الدنيا تكبر "
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "يتنفس المتفرجون بعمق"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "وفي كل زفير تأتي نغمة"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "ي"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "دندن الجمهور"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "عالية أو منخفضة كما يريدون"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "للمدة التي يريدونها"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "دقات الموجة الصاخبة التي تهدأ ببطء"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "til-skuespillerne trækker vejret dybt"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "på hver udånding kommer en tone"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "til-skuespillerne nynner"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "så højt eller lavt de vil"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "så længe de vil"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "høje bølgeslag, der langsomt stilner af"
+    },
+    {
+      "insert": "\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " jeg håber tristheden vil forlade dig\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " som en sky\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " der opløses til regn\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " strømmer ned ad bjergsider\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " samles i floder\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " der løber\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " gennem deltaer\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " ud i havet\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " hvorfra den fordamper tilbage op i luften\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " og bliver til skyer\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " der dækker for solen\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " sådan har du fortalt mig om vandets bevægelser\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " hvordan vandet cirkulerer mellem havet\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " himlen\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " og bjerget\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " hvad med tårerne?\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " hvad med\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " havet\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " i\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " os?\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " tiden går\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "til-skuespiller:"
+    },
+    {
+      "insert": " løber ud i havet\n\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "يتنفس المتفرجون بعمق"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "وفي كل زفير تأتي نغمة"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "يدندن الجمهور"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "عالية أو منخفضة كما يريدون"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "للمدة التي يريدونها"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "دقات الموجة الصاخبة التي تهدأ ببطء"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "til-skuespillerne trækker vejret dybt"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "på hver udånding kommer en tone"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "til-skuespillerne nynner"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "så højt eller lavt de vil"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "så længe de vil"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "høje bølgeslag, der langsomt stilner af"
+    },
+    {
+      "insert": "\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor:"
+    },
+    {
+      "insert": " I hope the sadness will leave you\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor:"
+    },
+    {
+      "insert": " like clouds\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor:"
+    },
+    {
+      "insert": " that dissolve into rain\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor:"
+    },
+    {
+      "insert": " flow into rivers\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor:"
+    },
+    {
+      "insert": " travel\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor:"
+    },
+    {
+      "insert": " through deltas\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor:"
+    },
+    {
+      "insert": " and end\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor:"
+    },
+    {
+      "insert": " in the sea\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor:"
+    },
+    {
+      "insert": " from where they evaporate back\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor:"
+    },
+    {
+      "insert": " into clouds \n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor:"
+    },
+    {
+      "insert": " on the sky\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor:"
+    },
+    {
+      "insert": " covering\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor:"
+    },
+    {
+      "insert": " the sun\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor:"
+    },
+    {
+      "insert": " you told me \n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor:"
+    },
+    {
+      "insert": " how water circulates\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor:"
+    },
+    {
+      "insert": " between the oceans\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor:"
+    },
+    {
+      "insert": " the sky\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor:"
+    },
+    {
+      "insert": " and the mountains\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor:"
+    },
+    {
+      "insert": " what about tears?\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor:"
+    },
+    {
+      "insert": " what about\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor:"
+    },
+    {
+      "insert": " the oceans\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor:"
+    },
+    {
+      "insert": " in\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor:"
+    },
+    {
+      "insert": " us?\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor:"
+    },
+    {
+      "insert": " time is running\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor:"
+    },
+    {
+      "insert": " running into the sea\n\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "يتنفس المتفرجون بعمق"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "وفي كل زفير تأتي نغمة"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "يدندن الجمهور"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "عالية أو منخفضة كما يريدون"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "للمدة التي يريدونها"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "دقات الموجة الصاخبة التي تهدأ ببطء"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "til-skuespillerne trækker vejret dybt"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "på hver udånding kommer en tone"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "til-skuespillerne nynner"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "så højt eller lavt de vil"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "så længe de vil"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "høje bølgeslag, der langsomt stilner af"
+    },
+    {
+      "insert": "\n\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج: "
+    },
+    {
+      "insert": "نتمنى الحزن يفارقك"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج:  "
+    },
+    {
+      "insert": "كيف السماء"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج: "
+    },
+    {
+      "insert": "السماء اللي تولي مطر"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج: "
+    },
+    {
+      "insert": "الماء يصب على أطراف الجبل"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج: "
+    },
+    {
+      "insert": "الماء يتلم يعمل وديان"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج:"
+    },
+    {
+      "insert": " الماء يجري"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج: "
+    },
+    {
+      "insert": "الماء يشق الأرض ويرمي روحه في البحر"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": " الممثل-المتفرج:  "
+    },
+    {
+      "insert": "يتبخر و يرجعلنا"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "  "
+    },
+    {
+      "insert": "مالسماء"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج: "
+    },
+    {
+      "insert": "يولي غيم"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج: "
+    },
+    {
+      "insert": "غيم تحجب  الشمس"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج: "
+    },
+    {
+      "insert": "هاذي حكايتي على مسارب الماء"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج:"
+    },
+    {
+      "insert": " وعلى كيفاش يتنقل بين الوديان والبحيرات"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج:  "
+    },
+    {
+      "insert": "مالسماء"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج: "
+    },
+    {
+      "insert": "والدموع"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج: "
+    },
+    {
+      "insert": "آشبيهم الدموع ؟؟"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج: "
+    },
+    {
+      "insert": " والبحر"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج: "
+    },
+    {
+      "insert": "دموع  في البحر"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج: "
+    },
+    {
+      "insert": "دموعنا؟؟"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج: "
+    },
+    {
+      "insert": "تعدى الوقت"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج: "
+    },
+    {
+      "insert": "دموعنا  تجري  زاده للبحر"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج:"
+    },
+    {
+      "insert": " دموعنا تسري للبحر"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج: "
+    },
+    {
+      "insert": "و تتبخر تولي غيم"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج: "
+    },
+    {
+      "insert": "و الغيمة تذوب مطر"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "الممثل-المتفرج: "
+    },
+    {
+      "insert": "مطرنا دموع خيطين من سماء"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "\n\n \n\n"
+    }
+  ]
+}
