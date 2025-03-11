@@ -7,7 +7,10 @@
       "insert": "spect-actor:"
     },
     {
-      "insert": " I will break my back for you\n\n"
+      "insert": " I will break my back for you\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -34,7 +37,10 @@
       "insert": "spect-actor:"
     },
     {
-      "insert": " said the factory worker to his daughters\n\n"
+      "insert": " said the factory worker to his daughters\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -61,7 +67,10 @@
       "insert": "spect-actor:"
     },
     {
-      "insert": " and the daughters replied\n\n"
+      "insert": " and the daughters replied\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -88,7 +97,10 @@
       "insert": "spect-actor:"
     },
     {
-      "insert": " we will break the rules for you\n\n"
+      "insert": " we will break the rules for you\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -262,7 +274,13 @@
       "insert": "til-skuespiller:"
     },
     {
-      "insert": " en halv\n\nالممثل-المتفرج: نصف "
+      "insert": " en halv\n"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "insert": "الممثل-المتفرج: نصف "
     },
     {
       "attributes": {
@@ -280,7 +298,13 @@
       "insert": "til-skuespiller:"
     },
     {
-      "insert": " sætning\n\nالممثل-المتفرج: الجملة "
+      "insert": " sætning\n"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "insert": "الممثل-المتفرج: الجملة "
     },
     {
       "attributes": {
@@ -298,7 +322,13 @@
       "insert": "til-skuespiller:"
     },
     {
-      "insert": " en verden \n\nالممثل-المتفرج:العالم مقطع أجزاء"
+      "insert": " en verden \n"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "insert": "الممثل-المتفرج:العالم مقطع أجزاء"
     },
     {
       "attributes": {
@@ -316,7 +346,13 @@
       "insert": "til-skuespiller:"
     },
     {
-      "insert": " skåret i stykker\n\nالممثل- المتفرج: بالحدود"
+      "insert": " skåret i stykker\n"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "insert": "الممثل- المتفرج: بالحدود"
     },
     {
       "attributes": {
@@ -325,7 +361,10 @@
       "insert": "\n"
     },
     {
-      "insert": "\n\n"
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -334,7 +373,10 @@
       "insert": "til-skuespiller: "
     },
     {
-      "insert": "færdiggør denne sætning\n\n"
+      "insert": "færdiggør denne sætning\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -343,7 +385,10 @@
       "insert": "spect-actor: "
     },
     {
-      "insert": "finish this sentence\n\n"
+      "insert": "finish this sentence\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -520,7 +565,13 @@
       "attributes": {
         "align": "center"
       },
-      "insert": "\n\n"
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "align": "center"
+      },
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -544,7 +595,10 @@
       "insert": "til-skuespiller: "
     },
     {
-      "insert": "du krydser en grænse\n\n"
+      "insert": "du krydser en grænse\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -553,7 +607,10 @@
       "insert": "spect-actor:"
     },
     {
-      "insert": " you cross a border\n\n"
+      "insert": " you cross a border\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -580,7 +637,10 @@
       "insert": "til-skuespiller:"
     },
     {
-      "insert": " og finder arbejde\n\n"
+      "insert": " og finder arbejde\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -589,7 +649,10 @@
       "insert": "spect-actor: "
     },
     {
-      "insert": "and find work\n\n"
+      "insert": "and find work\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -616,7 +679,10 @@
       "insert": "til-skuespiller: "
     },
     {
-      "insert": "på Europas fabrikker\n\n"
+      "insert": "på Europas fabrikker\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -625,7 +691,10 @@
       "insert": "spect-actor:"
     },
     {
-      "insert": " in Europe’s factories\n\n"
+      "insert": " in Europe’s factories\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -652,7 +721,10 @@
       "insert": "til-skuespiller:"
     },
     {
-      "insert": " du forlader dine forældre\n\n"
+      "insert": " du forlader dine forældre\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -661,7 +733,10 @@
       "insert": "spect-actor: "
     },
     {
-      "insert": "you leave your parents\n\n"
+      "insert": "you leave your parents\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -688,7 +763,10 @@
       "insert": "til-skuespiller:"
     },
     {
-      "insert": " du forlader dine søskende\n\n"
+      "insert": " du forlader dine søskende\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -697,7 +775,10 @@
       "insert": "spect-actor: "
     },
     {
-      "insert": "you leave your siblings\n\n"
+      "insert": "you leave your siblings\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -724,7 +805,10 @@
       "insert": "til-skuespiller:"
     },
     {
-      "insert": " du forlader dine onkler \n\n"
+      "insert": " du forlader dine onkler \n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -733,7 +817,10 @@
       "insert": "spect-actor:"
     },
     {
-      "insert": " you leave your uncles\n\n"
+      "insert": " you leave your uncles\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -760,7 +847,10 @@
       "insert": "til-skuespiller: "
     },
     {
-      "insert": "du forlader dine tanter\n\n"
+      "insert": "du forlader dine tanter\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -769,7 +859,10 @@
       "insert": "spect-actor: "
     },
     {
-      "insert": "you leave your aunts\n\n"
+      "insert": "you leave your aunts\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -796,7 +889,10 @@
       "insert": "til-skuespiller:"
     },
     {
-      "insert": " du forlader din elskede\n\n"
+      "insert": " du forlader din elskede\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -805,7 +901,10 @@
       "insert": "spect-actor: "
     },
     {
-      "insert": "you leave your love interest\n\n"
+      "insert": "you leave your love interest\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -832,7 +931,10 @@
       "insert": "til-skuespiller:"
     },
     {
-      "insert": " du forlader dine børn\n\n"
+      "insert": " du forlader dine børn\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -841,7 +943,10 @@
       "insert": "spect-actor: "
     },
     {
-      "insert": "you leave your children\n\n"
+      "insert": "you leave your children\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -868,7 +973,10 @@
       "insert": "til-skuespiller:"
     },
     {
-      "insert": " du forlader dine venner\n\n"
+      "insert": " du forlader dine venner\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -877,7 +985,10 @@
       "insert": "spect-actor: "
     },
     {
-      "insert": "you leave your friends\n\n"
+      "insert": "you leave your friends\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -904,7 +1015,10 @@
       "insert": "til-skuespiller:"
     },
     {
-      "insert": " du forlader træerne\n\n"
+      "insert": " du forlader træerne\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -913,7 +1027,10 @@
       "insert": "spect-actor:"
     },
     {
-      "insert": " you leave the trees\n\n"
+      "insert": " you leave the trees\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -940,7 +1057,10 @@
       "insert": "til-skuespiller:"
     },
     {
-      "insert": " du forlader dyrene\n\n"
+      "insert": " du forlader dyrene\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -949,7 +1069,10 @@
       "insert": "spect-actor: "
     },
     {
-      "insert": "you leave the animals\n\n"
+      "insert": "you leave the animals\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -976,7 +1099,10 @@
       "insert": "til-skuespiller:"
     },
     {
-      "insert": " du forlader jorden\n\n"
+      "insert": " du forlader jorden\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -985,7 +1111,10 @@
       "insert": "spect-actor: "
     },
     {
-      "insert": "you leave the land\n\n"
+      "insert": "you leave the land\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1012,7 +1141,10 @@
       "insert": "til-skuespiller:"
     },
     {
-      "insert": " du forlader mig\n\n"
+      "insert": " du forlader mig\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1021,7 +1153,10 @@
       "insert": "spect-actor: "
     },
     {
-      "insert": "you leave me\n\n"
+      "insert": "you leave me\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1048,7 +1183,10 @@
       "insert": "til-skuespiller:"
     },
     {
-      "insert": " aldrig\n\n"
+      "insert": " aldrig\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1057,7 +1195,10 @@
       "insert": "spect-actor: "
     },
     {
-      "insert": "never\n\n"
+      "insert": "never\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1084,7 +1225,10 @@
       "insert": "til-skuespiller:"
     },
     {
-      "insert": " jeg forlod\n\n"
+      "insert": " jeg forlod\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1093,7 +1237,10 @@
       "insert": "spect-actor: "
     },
     {
-      "insert": "I left\n\n"
+      "insert": "I left\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1120,7 +1267,10 @@
       "insert": "til-skuespiller:"
     },
     {
-      "insert": " dig\n\n"
+      "insert": " dig\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1129,7 +1279,10 @@
       "insert": "spect-actor: "
     },
     {
-      "insert": "you\n\n"
+      "insert": "you\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1156,7 +1309,10 @@
       "insert": "til-skuespiller:"
     },
     {
-      "insert": " for at studere på Europas universiteter\n\n"
+      "insert": " for at studere på Europas universiteter\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1165,7 +1321,10 @@
       "insert": "spect-actor:"
     },
     {
-      "insert": " to study at European universities\n\n"
+      "insert": " to study at European universities\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1192,7 +1351,10 @@
       "insert": "til-skuespiller:"
     },
     {
-      "insert": " hver dag den samme film\n\n"
+      "insert": " hver dag den samme film\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1201,7 +1363,10 @@
       "insert": "spect-actor: "
     },
     {
-      "insert": "every day the same movie\n\n"
+      "insert": "every day the same movie\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1228,7 +1393,10 @@
       "insert": "til-skuespiller:"
     },
     {
-      "insert": " som at sidde fast i en drøm\n\n"
+      "insert": " som at sidde fast i en drøm\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1237,7 +1405,10 @@
       "insert": "spect-actor:"
     },
     {
-      "insert": " like being stuck in a dream\n\n"
+      "insert": " like being stuck in a dream\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1264,7 +1435,10 @@
       "insert": "til-skuespiller:"
     },
     {
-      "insert": " du krydser en grænse og\n\n"
+      "insert": " du krydser en grænse og\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1273,7 +1447,10 @@
       "insert": "spect-actor: "
     },
     {
-      "insert": "you cross a border and\n\n"
+      "insert": "you cross a border and\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1300,7 +1477,10 @@
       "insert": "til-skuespiller:"
     },
     {
-      "insert": " ankommer\n\n"
+      "insert": " ankommer\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1309,7 +1489,10 @@
       "insert": "spect-actor: "
     },
     {
-      "insert": "arrive\n\n"
+      "insert": "arrive\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1336,7 +1519,10 @@
       "insert": "til-skuespiller:"
     },
     {
-      "insert": " til et nyt land\n\n"
+      "insert": " til et nyt land\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1345,7 +1531,10 @@
       "insert": "spect-actor: "
     },
     {
-      "insert": "at new land\n\n"
+      "insert": "at new land\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1372,7 +1561,10 @@
       "insert": "til-skuespiller:"
     },
     {
-      "insert": " omskriv manuskriptet\n\n"
+      "insert": " omskriv manuskriptet\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1381,7 +1573,10 @@
       "insert": "spect-actor: "
     },
     {
-      "insert": "rewrite the script\n\n"
+      "insert": "rewrite the script\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1408,7 +1603,10 @@
       "insert": "til-skuespiller:"
     },
     {
-      "insert": " du krydser en grænse og\n\n"
+      "insert": " du krydser en grænse og\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1417,7 +1615,10 @@
       "insert": "spect-actor: "
     },
     {
-      "insert": "you cross a border and\n\n"
+      "insert": "you cross a border and\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1444,7 +1645,10 @@
       "insert": "til-skuespiller:"
     },
     {
-      "insert": " forsvinder\n\n"
+      "insert": " forsvinder\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1453,7 +1657,10 @@
       "insert": "spect-actor: "
     },
     {
-      "insert": "disappear\n\n"
+      "insert": "disappear\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1612,7 +1819,10 @@
       "insert": "til-skuespiller:"
     },
     {
-      "insert": " hvad er mit land?\n\n"
+      "insert": " hvad er mit land?\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1621,7 +1831,10 @@
       "insert": "spect-actor: "
     },
     {
-      "insert": "what is my land?\n\n"
+      "insert": "what is my land?\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1648,7 +1861,10 @@
       "insert": "til-skuespiller:"
     },
     {
-      "insert": " hvad er dit land?\n\n"
+      "insert": " hvad er dit land?\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1657,7 +1873,10 @@
       "insert": "spect-actor:"
     },
     {
-      "insert": " what is your land?\n\n"
+      "insert": " what is your land?\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1684,7 +1903,10 @@
       "insert": "spect-actor:"
     },
     {
-      "insert": " I\n\n"
+      "insert": " I\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1693,7 +1915,10 @@
       "insert": "til-skuespiller: "
     },
     {
-      "insert": "jeg\n\n"
+      "insert": "jeg\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1702,7 +1927,10 @@
       "insert": "spect-actor:"
     },
     {
-      "insert": " am a fragment\n\n"
+      "insert": " am a fragment\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1729,7 +1957,10 @@
       "insert": "til-skuespiller: "
     },
     {
-      "insert": "er en del\n\n"
+      "insert": "er en del\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1738,7 +1969,10 @@
       "insert": "spect-actor:"
     },
     {
-      "insert": " of a us \n\n"
+      "insert": " of a us \n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1765,7 +1999,10 @@
       "insert": "til-skuespiller:"
     },
     {
-      "insert": " af et vi\n\n"
+      "insert": " af et vi\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1774,7 +2011,10 @@
       "insert": "til-skuespiller:"
     },
     {
-      "insert": " jorden\n\n"
+      "insert": " jorden\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1783,7 +2023,10 @@
       "insert": "spect-actor: "
     },
     {
-      "insert": "the soil\n\n"
+      "insert": "the soil\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1810,7 +2053,10 @@
       "insert": "til-skuespiller:"
     },
     {
-      "insert": " forlader dig\n\n"
+      "insert": " forlader dig\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1819,7 +2065,10 @@
       "insert": "spect-actor: "
     },
     {
-      "insert": "never \n\n"
+      "insert": "never \n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1828,7 +2077,16 @@
       "insert": "الممثل-المتفرج:"
     },
     {
-      "insert": " عمره \n\n"
+      "insert": " عمره "
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1837,7 +2095,10 @@
       "insert": "til-skuespiller:"
     },
     {
-      "insert": " aldrig\n\n"
+      "insert": " aldrig\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1846,7 +2107,10 @@
       "insert": "spect-actor: "
     },
     {
-      "insert": "leaves you\n\n"
+      "insert": "leaves you\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1855,7 +2119,16 @@
       "insert": "الممثل-المتفرج:"
     },
     {
-      "insert": " ما يخليك \n\n"
+      "insert": " ما يخليك "
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1864,7 +2137,10 @@
       "insert": "til-skuespiller:"
     },
     {
-      "insert": " jorden\n\n"
+      "insert": " jorden\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1873,7 +2149,10 @@
       "insert": "spect-actor:"
     },
     {
-      "insert": " the soil \n\n"
+      "insert": " the soil \n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1882,7 +2161,16 @@
       "insert": "الممثل-المتفرج:"
     },
     {
-      "insert": " التراب \n\n"
+      "insert": " التراب "
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1891,7 +2179,10 @@
       "insert": "til-skuespiller:"
     },
     {
-      "insert": " dit ophav\n\n"
+      "insert": " dit ophav\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1900,7 +2191,10 @@
       "insert": "spect-actor: "
     },
     {
-      "insert": "that you came from\n\n"
+      "insert": "that you came from\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1909,7 +2203,16 @@
       "insert": "الممثل-المتفرج:"
     },
     {
-      "insert": " الي جيت منه \n\n"
+      "insert": " الي جيت منه "
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1918,7 +2221,10 @@
       "insert": "til-skuespiller:"
     },
     {
-      "insert": " jorden\n\n"
+      "insert": " jorden\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1927,7 +2233,10 @@
       "insert": "spect-actor:"
     },
     {
-      "insert": " the soil\n\n"
+      "insert": " the soil\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1936,7 +2245,16 @@
       "insert": "الممثل-المتفرج:"
     },
     {
-      "insert": " التراب \n\n"
+      "insert": " التراب "
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1945,7 +2263,10 @@
       "insert": "til-skuespiller:"
     },
     {
-      "insert": " dit gravsted\n\n"
+      "insert": " dit gravsted\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1954,7 +2275,10 @@
       "insert": "spect-actor: "
     },
     {
-      "insert": "your grave\n\n"
+      "insert": "your grave\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1963,7 +2287,16 @@
       "insert": "الممثل-المتفرج:"
     },
     {
-      "insert": " قبرك \n\n"
+      "insert": " قبرك "
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1972,7 +2305,10 @@
       "insert": "til-skuespiller:"
     },
     {
-      "insert": " jorden\n\n"
+      "insert": " jorden\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -1981,7 +2317,10 @@
       "insert": "spect-actor: "
     },
     {
-      "insert": "the soil\n\n"
+      "insert": "the soil\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -2008,7 +2347,10 @@
       "insert": "til-skuespiller:"
     },
     {
-      "insert": " et sted hvor livet kan vokse\n\n"
+      "insert": " et sted hvor livet kan vokse\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -2017,7 +2359,10 @@
       "insert": "spect-actor:"
     },
     {
-      "insert": " a place where life can grow\n\n"
+      "insert": " a place where life can grow\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -2045,7 +2390,7 @@
     },
     {
       "attributes": {
-        "align": "right"
+        "align": "center"
       },
       "insert": "\n"
     },
@@ -2057,7 +2402,7 @@
     },
     {
       "attributes": {
-        "align": "right"
+        "align": "center"
       },
       "insert": "\n"
     },
@@ -2072,7 +2417,7 @@
     },
     {
       "attributes": {
-        "align": "right"
+        "align": "center"
       },
       "insert": "\n"
     },
@@ -2084,7 +2429,7 @@
     },
     {
       "attributes": {
-        "align": "right"
+        "align": "center"
       },
       "insert": "\n"
     },
@@ -2096,7 +2441,7 @@
     },
     {
       "attributes": {
-        "align": "right"
+        "align": "center"
       },
       "insert": "\n"
     },
@@ -2108,7 +2453,7 @@
     },
     {
       "attributes": {
-        "align": "right"
+        "align": "center"
       },
       "insert": "\n"
     },
@@ -2119,6 +2464,9 @@
       "insert": "til-skuespillerne trækker vejret dybt"
     },
     {
+      "attributes": {
+        "align": "center"
+      },
       "insert": "\n"
     },
     {
@@ -2128,6 +2476,9 @@
       "insert": "på hver udånding kommer en tone"
     },
     {
+      "attributes": {
+        "align": "center"
+      },
       "insert": "\n"
     },
     {
@@ -2137,6 +2488,9 @@
       "insert": "til-skuespillerne nynner"
     },
     {
+      "attributes": {
+        "align": "center"
+      },
       "insert": "\n"
     },
     {
@@ -2146,6 +2500,9 @@
       "insert": "så højt eller lavt de vil"
     },
     {
+      "attributes": {
+        "align": "center"
+      },
       "insert": "\n"
     },
     {
@@ -2155,16 +2512,25 @@
       "insert": "så længe de vil"
     },
     {
+      "attributes": {
+        "align": "center"
+      },
       "insert": "\n"
     },
     {
       "attributes": {
         "italic": true
       },
-      "insert": "høje bølgeslag, der langsomt stilner af"
+      "insert": "høje bølgeslag der langsomt stilner af"
     },
     {
-      "insert": "\n\n"
+      "attributes": {
+        "align": "center"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -2362,7 +2728,10 @@
       "insert": "til-skuespiller:"
     },
     {
-      "insert": " løber ud i havet\n\n"
+      "insert": " løber ud i havet\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -2488,7 +2857,10 @@
       "insert": "høje bølgeslag, der langsomt stilner af"
     },
     {
-      "insert": "\n\n"
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -2713,7 +3085,10 @@
       "insert": "spect-actor:"
     },
     {
-      "insert": " running into the sea\n\n"
+      "insert": " running into the sea\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -2723,7 +3098,7 @@
     },
     {
       "attributes": {
-        "align": "right"
+        "align": "center"
       },
       "insert": "\n"
     },
@@ -2735,7 +3110,7 @@
     },
     {
       "attributes": {
-        "align": "right"
+        "align": "center"
       },
       "insert": "\n"
     },
@@ -2747,7 +3122,7 @@
     },
     {
       "attributes": {
-        "align": "right"
+        "align": "center"
       },
       "insert": "\n"
     },
@@ -2759,7 +3134,7 @@
     },
     {
       "attributes": {
-        "align": "right"
+        "align": "center"
       },
       "insert": "\n"
     },
@@ -2771,7 +3146,7 @@
     },
     {
       "attributes": {
-        "align": "right"
+        "align": "center"
       },
       "insert": "\n"
     },
@@ -2783,7 +3158,7 @@
     },
     {
       "attributes": {
-        "align": "right"
+        "align": "center"
       },
       "insert": "\n"
     },
@@ -2794,6 +3169,9 @@
       "insert": "til-skuespillerne trækker vejret dybt"
     },
     {
+      "attributes": {
+        "align": "center"
+      },
       "insert": "\n"
     },
     {
@@ -2803,6 +3181,9 @@
       "insert": "på hver udånding kommer en tone"
     },
     {
+      "attributes": {
+        "align": "center"
+      },
       "insert": "\n"
     },
     {
@@ -2812,6 +3193,9 @@
       "insert": "til-skuespillerne nynner"
     },
     {
+      "attributes": {
+        "align": "center"
+      },
       "insert": "\n"
     },
     {
@@ -2821,6 +3205,9 @@
       "insert": "så højt eller lavt de vil"
     },
     {
+      "attributes": {
+        "align": "center"
+      },
       "insert": "\n"
     },
     {
@@ -2830,16 +3217,22 @@
       "insert": "så længe de vil"
     },
     {
+      "attributes": {
+        "align": "center"
+      },
       "insert": "\n"
     },
     {
       "attributes": {
         "italic": true
       },
-      "insert": "høje bølgeslag, der langsomt stilner af"
+      "insert": "høje bølgeslag der langsomt stilner af"
     },
     {
-      "insert": "\n\n"
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
     },
     {
       "attributes": {
@@ -3211,7 +3604,16 @@
       "insert": "\n"
     },
     {
-      "insert": "\n\n \n\n"
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "insert": " \n"
+    },
+    {
+      "insert": "\n"
     }
   ]
 }
